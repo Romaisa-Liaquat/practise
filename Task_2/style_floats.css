@@ -1,0 +1,41 @@
+/*img{
+    float:right;
+}
+    
+
+.blue{
+    background: lightblue;
+    float: right;
+}
+.purple{
+    background: purple;
+    float: left;
+    margin-left: 10px;
+
+}
+.b_blue{
+    background:lightblue;
+    
+}
+.box{
+    height: 100px;
+    width: 100px;
+}*/
+.wrapper{
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    display: block;
+    clear: both;
+}
+.Tasks{
+    float: left;
+    margin:2%;
+    padding: 1%;
+    width: 29%;
+    border: 2px solid plum;
+    background: lightblue;
+    width: 334px;
+    height: 150px;
+    text-align: center;
+}

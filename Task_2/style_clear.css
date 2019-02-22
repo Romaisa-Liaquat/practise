@@ -1,0 +1,29 @@
+.wrapper{
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    display: block;
+    clear: both;
+}
+.Tasks{
+    float: left;
+    margin:2%;
+    padding: 1%;
+    width: 29%;
+    border: 2px solid plum;
+    background: lightblue;
+    width: 334px;
+    height: 150px;
+    text-align: center;
+}
+.content{
+    margin: 10px;
+    padding: 10px;
+    background: lightcoral;
+    /* as above three boxes are influence with floats so when we start a new div it acompane it with their backgroung
+    like in 3 boxes k peche se start horha hamara new div that's why we use clear both that will clear the effect of float on our new div*/
+    clear: both;
+    border: 10px double lightblue;
+    margin-top: 100px;
+
+}
